@@ -4,3 +4,9 @@ F:\Dropbox\Git\ETABS_TupleWrapper\ETABS2016_Extensions\obj\Release\ETABS2016_Ext
 F:\Dropbox\Git\ETABS_TupleWrapper\ETABS2016_Extensions\obj\Release\ETABS2016_Extensions.csproj.CoreCompileInputs.cache
 F:\Dropbox\Git\ETABS_TupleWrapper\ETABS2016_Extensions\obj\Release\ETABS2016_Extensions.dll
 F:\Dropbox\Git\ETABS_TupleWrapper\ETABS2016_Extensions\obj\Release\ETABS2016_Extensions.pdb
+C:\Users\jeremy atkinson\Documents\Plugins\ETABS_Wrapper\ETABS2016_Extensions\bin\Release\ETABS2016_Extensions.dll
+C:\Users\jeremy atkinson\Documents\Plugins\ETABS_Wrapper\ETABS2016_Extensions\bin\Release\ETABS2016_Extensions.pdb
+C:\Users\jeremy atkinson\Documents\Plugins\ETABS_Wrapper\ETABS2016_Extensions\obj\Release\ETABS2016_Extensions.csproj.AssemblyReference.cache
+C:\Users\jeremy atkinson\Documents\Plugins\ETABS_Wrapper\ETABS2016_Extensions\obj\Release\ETABS2016_Extensions.csproj.CoreCompileInputs.cache
+C:\Users\jeremy atkinson\Documents\Plugins\ETABS_Wrapper\ETABS2016_Extensions\obj\Release\ETABS2016_Extensions.dll
+C:\Users\jeremy atkinson\Documents\Plugins\ETABS_Wrapper\ETABS2016_Extensions\obj\Release\ETABS2016_Extensions.pdb

@@ -4,3 +4,11 @@ F:\Dropbox\Git\ETABS_TupleWrapper\ETABS_TupleWrapper\obj\Release\ETABS_Wrapper.c
 F:\Dropbox\Git\ETABS_TupleWrapper\ETABS_TupleWrapper\obj\Release\ETABS_Wrapper.csproj.CoreCompileInputs.cache
 F:\Dropbox\Git\ETABS_TupleWrapper\ETABS_TupleWrapper\obj\Release\ETABS_Wrapper.dll
 F:\Dropbox\Git\ETABS_TupleWrapper\ETABS_TupleWrapper\obj\Release\ETABS_Wrapper.pdb
+C:\Users\jeremy atkinson\Documents\Plugins\ETABS_Wrapper\ETABS_Wrapper\bin\Release\ETABS_Wrapper.dll
+C:\Users\jeremy atkinson\Documents\Plugins\ETABS_Wrapper\ETABS_Wrapper\bin\Release\ETABS_Wrapper.pdb
+C:\Users\jeremy atkinson\Documents\Plugins\ETABS_Wrapper\ETABS_Wrapper\bin\Release\ETABSv1.dll
+C:\Users\jeremy atkinson\Documents\Plugins\ETABS_Wrapper\ETABS_Wrapper\obj\Release\ETABS_Wrapper.csproj.AssemblyReference.cache
+C:\Users\jeremy atkinson\Documents\Plugins\ETABS_Wrapper\ETABS_Wrapper\obj\Release\ETABS_Wrapper.csproj.CoreCompileInputs.cache
+C:\Users\jeremy atkinson\Documents\Plugins\ETABS_Wrapper\ETABS_Wrapper\obj\Release\ETABS_Wrapper.csproj.CopyComplete
+C:\Users\jeremy atkinson\Documents\Plugins\ETABS_Wrapper\ETABS_Wrapper\obj\Release\ETABS_Wrapper.dll
+C:\Users\jeremy atkinson\Documents\Plugins\ETABS_Wrapper\ETABS_Wrapper\obj\Release\ETABS_Wrapper.pdb

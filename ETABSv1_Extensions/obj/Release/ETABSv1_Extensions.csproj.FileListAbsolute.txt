@@ -1,0 +1,8 @@
+C:\Users\jeremy atkinson\Documents\Plugins\ETABS_Wrapper\ETABSv1_Extensions\obj\Release\ETABSv1_Extensions.csproj.AssemblyReference.cache
+C:\Users\jeremy atkinson\Documents\Plugins\ETABS_Wrapper\ETABSv1_Extensions\obj\Release\ETABSv1_Extensions.csproj.CoreCompileInputs.cache
+C:\Users\jeremy atkinson\Documents\Plugins\ETABS_Wrapper\ETABSv1_Extensions\bin\Release\ETABSv1.dll
+C:\Users\jeremy atkinson\Documents\Plugins\ETABS_Wrapper\ETABSv1_Extensions\obj\Release\ETABSv1_Extensions.csproj.CopyComplete
+C:\Users\jeremy atkinson\Documents\Plugins\ETABS_Wrapper\ETABSv1_Extensions\bin\Release\ETABSv1_Extensions.dll
+C:\Users\jeremy atkinson\Documents\Plugins\ETABS_Wrapper\ETABSv1_Extensions\bin\Release\ETABSv1_Extensions.pdb
+C:\Users\jeremy atkinson\Documents\Plugins\ETABS_Wrapper\ETABSv1_Extensions\obj\Release\ETABSv1_Extensions.dll
+C:\Users\jeremy atkinson\Documents\Plugins\ETABS_Wrapper\ETABSv1_Extensions\obj\Release\ETABSv1_Extensions.pdb
